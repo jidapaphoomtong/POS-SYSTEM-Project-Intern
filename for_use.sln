@@ -1,0 +1,61 @@
+#########Icon for project######### 
+
+List > TiThMenu
+import { TiThMenu } from "react-icons/ti";
+
+Menu > BiSolidFoodMenu
+import { BiSolidFoodMenu } from "react-icons/bi";
+
+Search > FaSearch
+import { FaSearch } from "react-icons/fa";
+
+Notification > IoNotifications
+import { IoNotifications } from "react-icons/io5";
+
+Person > IoPerson
+import { IoPerson } from "react-icons/io5";
+
+Staff > FaUserGroup
+import { FaUserGroup } from "react-icons/fa6";
+
+Dashboard > BiSolidDashboard
+import { BiSolidDashboard } from "react-icons/bi";
+
+Stock > FaBoxes
+import { FaBoxes } from "react-icons/fa";
+
+History > MdWorkHistory
+import { MdWorkHistory } from "react-icons/md";
+
+
+Department > HiBuildingStorefront
+import { HiBuildingStorefront } from "react-icons/hi2";
+
+Bin > RiDeleteBin5Fill
+import { RiDeleteBin5Fill } from "react-icons/ri";
+
+pen > FaPen
+import { FaPen } from "react-icons/fa";
+
+print > FaPrint
+import { FaPrint } from "react-icons/fa6";
+
+logout > CiLogout
+import { CiLogout } from "react-icons/ci";
+
+
+################### Color ######################
+
+Orange
+    FAC323
+    CE7A15
+    FFC783
+    FCC16C
+    EDA54E
+    FFF1E0
+Blue
+    88CDE0
+    BFDCE4
+    74A0FF
+
+#################################################
